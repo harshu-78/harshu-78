@@ -36,19 +36,20 @@ Currently learning React.js and sharpening my DSA skills in Java to level up as 
 
 <div align="center">
   
-  <a href="https://github.com/harshu-78/Bike-Site" target="_blank">
+  <a href="https://harshu-78.github.io/Bike-Site/" target="_blank">
     <img src="https://img.shields.io/badge/Bike%20Site-HTML%20%7C%20CSS%20%7C%20JS-blueviolet?style=for-the-badge&logo=github" alt="Bike Site" />
   </a>
   <br />
   🏍️ <b>Modern, responsive & clean UI</b><br/>
   🔹 Glassmorphism navbar & responsive layout<br/><br/>
 
-  <a href="https://github.com/Harshu-78/e-commerce-site" target="_blank">
+  <a href="https://harshu-78.github.io/e-commerce-site/" target="_blank">
     <img src="https://img.shields.io/badge/E--Commerce%20Site-HTML%20%7C%20CSS%20%7C%20JS-teal?style=for-the-badge&logo=github" alt="E-commerce Site" />
   </a>
   <br />
   🛍️ <b>Sleek frontend of an online store</b><br/>
   🔹 Product cards, UI polish, clean colors<br/><br/>
+  </div>
 
 ## 📫 Connect With Me
 
@@ -59,9 +60,10 @@ Currently learning React.js and sharpening my DSA skills in Java to level up as 
 
 ---
 
-## 🔥 Stats & Activity
 
-### <h2 align="center">📈 GitHub Stats</h2><p align="center">
+
+### <h2 >📈 GitHub Stats</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshu-78&show_icons=true&theme=radical" alt="Harsh's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu-78&layout=compact&theme=radical" alt="Harsh's most used languages"/>
   <br>
@@ -70,13 +72,13 @@ Currently learning React.js and sharpening my DSA skills in Java to level up as 
 
 ---
 
-### <h2 align="center">🌍 GitHub Activity Heatmap</h2>
+### <h2 >🌍 GitHub Activity Heatmap</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshu-78&theme=react-dark" />
 </p>
 
 ---
-### <h2 align="center">🏆 GitHub Trophies<h2>
+### <h2>🏆 GitHub Trophies<h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshu-78&theme=algolia&no-frame=true&margin-w=10" />
 </p>
