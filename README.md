@@ -9,7 +9,7 @@
 ## 🚀 Introduction
 
 I'm Harsh Pratap Singh, a self-driven Frontend Developer who thrives on building real-world projects using HTML, CSS, JavaScript, and Tailwind CSS.  
-Currently learning React.js and sharpening my DSA skills in Java to level up as a full-fledged developer.
+Currently learning React.js and sharpening my DSA skills in Java to level up as a full-fledged Mern Stack Developer.
 
 > 💡 My motto: *"Learn by doing, grow by building."*
 
