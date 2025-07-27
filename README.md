@@ -28,19 +28,27 @@ Currently learning React.js and sharpening my DSA skills in Java to level up as 
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Projects that Speak Louder than Words
 
-> Click to explore any of my live repositories 👇
+<p align="center">
+  ✨ Real-world experience meets frontend magic. Have a look at what I've built!
+</p>
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🚴‍♂️ Bike Site | A modern responsive bike website built with HTML, CSS, JS | [GitHub Repo](https://github.com/harshu-78/Bike-Site) |
-| 🛍 E-commerce Site | A sleek frontend of an online store | [GitHub Repo](https://github.com/Harshu-78/e-commerce-site) |
-| 🎨 Gradient Maker | Tool to generate CSS gradients easily | [GitHub Repo](https://github.com/harshu-78/Gradient-Maker) |
-| ⏳ Countdown Timer | Functional countdown app using JS DOM | [GitHub Repo](https://github.com/harshu-78/Countdown-Timer) |
-| 🔐 Login Page | Clean and responsive login UI | [GitHub Repo](https://github.com/harshu-78/Login-page) |
+<div align="center">
+  
+  <a href="https://github.com/harshu-78/Bike-Site" target="_blank">
+    <img src="https://img.shields.io/badge/Bike%20Site-HTML%20%7C%20CSS%20%7C%20JS-blueviolet?style=for-the-badge&logo=github" alt="Bike Site" />
+  </a>
+  <br />
+  🏍️ <b>Modern, responsive & clean UI</b><br/>
+  🔹 Glassmorphism navbar & responsive layout<br/><br/>
 
----
+  <a href="https://github.com/Harshu-78/e-commerce-site" target="_blank">
+    <img src="https://img.shields.io/badge/E--Commerce%20Site-HTML%20%7C%20CSS%20%7C%20JS-teal?style=for-the-badge&logo=github" alt="E-commerce Site" />
+  </a>
+  <br />
+  🛍️ <b>Sleek frontend of an online store</b><br/>
+  🔹 Product cards, UI polish, clean colors<br/><br/>
 
 ## 📫 Connect With Me
 
